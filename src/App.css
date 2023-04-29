@@ -1,0 +1,137 @@
+* {
+  font-family: Space Mono,monospace;
+}
+.header{
+  align-items: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background: rgba(10,25,47,255);
+}
+.switch{
+  display: flex;
+  justify-content: center;
+}
+li{
+  font-size: 20px;
+  list-style-type: none;
+  
+}
+span{
+  color:#4abda9;
+}
+a{
+  color: #55617c;
+  text-decoration: none;
+}
+.header-list{
+  
+  padding: 20px 50px;
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title{
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-size: 20px;
+  color:#4abda9;
+}
+body{
+  background: #14253d;
+}
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #4abda9;
+}
+::-webkit-scrollbar-track {
+  background-color: #14253d;
+}
+.main-hello{
+  margin-top: 100px;
+  width: 50%;
+  flex-direction: column;
+  display: flex;
+  align-items: flex-start;
+  justify-content: left;
+}
+.hello-upline{
+  color: #4abda9;
+}
+.hello-text{
+  color: white;
+}
+.hello-name{
+  color: white;
+  font-size: 5rem;
+}
+.hello-undername{
+  color: #8892b0;
+  font-size: 3rem;
+}
+.hello-github-btn{
+  margin-top: 80px;
+  
+}
+.github-btn{
+    
+  background-color: transparent;
+  padding: 15px;
+  border-radius: 4px;
+  border: 1px solid #4abda9;
+  font-size: 14px;
+  color: #4abda9;
+  text-decoration: none;
+}
+li{
+  width: 250px;
+  text-align: center;
+}
+.contact{
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  width: 45%; 
+}
+.contact-title{
+  color: white;
+  text-align: left;
+  font-size: 2em;
+}
+.contact-text{
+  font-size: 20px;
+  color:#8892b0;
+  margin-top: 40px;
+}
+.contact-btns{
+  margin-top: 125px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.contact-href{
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: 1px solid #4abda9;
+  color: #4abda9;
+}
+.project-wrap{
+  width: 45%;
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+.project-item-img{
+  font-size: 40px;
+  height: 100px;
+  width: 100px;
+  color:#4abda9;
+}
+.project-item-text{
+  font-size: 18px;
+  color:#8892b0;
+}
