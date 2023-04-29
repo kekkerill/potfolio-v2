@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/potfolio-v2/static/css/main.a68fbc59.css",
+    "main.js": "/potfolio-v2/static/js/main.4f33823b.js",
+    "static/js/787.b90a4b1d.chunk.js": "/potfolio-v2/static/js/787.b90a4b1d.chunk.js",
+    "index.html": "/potfolio-v2/index.html",
+    "main.a68fbc59.css.map": "/potfolio-v2/static/css/main.a68fbc59.css.map",
+    "main.4f33823b.js.map": "/potfolio-v2/static/js/main.4f33823b.js.map",
+    "787.b90a4b1d.chunk.js.map": "/potfolio-v2/static/js/787.b90a4b1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a68fbc59.css",
+    "static/js/main.4f33823b.js"
+  ]
+}
